@@ -61,7 +61,7 @@ Integrate with a front-end for user interaction.
 
 Author
 
-Your Name Ajayi Samuel
+psalmsprint x.com/0xNicos
 Built as part of a 12-week Web3 roadmap to master smart contract development.
 
 License
